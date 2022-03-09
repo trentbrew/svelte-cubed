@@ -5,6 +5,6 @@
 `npm run dev`
 
 ## Resources
-- [Rich Harris - Svelte Cubed] (https://www.youtube.com/watch?v=qD6Pmp45sO4)
-- [Svelte^3 Examples] (https://svelte-cubed.vercel.app/examples)
-- [Svelte^3 Docs] (https://svelte-cubed.vercel.app/docs/getting-started)
+- Rich Harris - Svelte Cubed (https://www.youtube.com/watch?v=qD6Pmp45sO4)
+- Svelte^3 Examples (https://svelte-cubed.vercel.app/examples)
+- Svelte^3 Docs (https://svelte-cubed.vercel.app/docs/getting-started)
